@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Hello World</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <p class="hello-text">Hello</p>
-</body>
+  <head>
+    <title>Hello World</title>
+  </head>
+  <body>
+    <h1>Hello World</h1>
+  </body>
 </html>
